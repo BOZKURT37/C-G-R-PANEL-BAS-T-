@@ -1,0 +1,9 @@
+D:\visual studio projelerim\GİRİŞ PANELİ(BASİT)\GİRİŞ PANELİ(BASİT)\bin\Debug\GİRİŞ PANELİ(BASİT).exe.config
+D:\visual studio projelerim\GİRİŞ PANELİ(BASİT)\GİRİŞ PANELİ(BASİT)\bin\Debug\GİRİŞ PANELİ(BASİT).exe
+D:\visual studio projelerim\GİRİŞ PANELİ(BASİT)\GİRİŞ PANELİ(BASİT)\bin\Debug\GİRİŞ PANELİ(BASİT).pdb
+D:\visual studio projelerim\GİRİŞ PANELİ(BASİT)\GİRİŞ PANELİ(BASİT)\obj\Debug\GİRİŞ_PANELİ_BASİT_.Form1.resources
+D:\visual studio projelerim\GİRİŞ PANELİ(BASİT)\GİRİŞ PANELİ(BASİT)\obj\Debug\GİRİŞ_PANELİ_BASİT_.Form2.resources
+D:\visual studio projelerim\GİRİŞ PANELİ(BASİT)\GİRİŞ PANELİ(BASİT)\obj\Debug\GİRİŞ_PANELİ_BASİT_.Properties.Resources.resources
+D:\visual studio projelerim\GİRİŞ PANELİ(BASİT)\GİRİŞ PANELİ(BASİT)\obj\Debug\GİRİŞ PANELİ(BASİT).csproj.GenerateResource.Cache
+D:\visual studio projelerim\GİRİŞ PANELİ(BASİT)\GİRİŞ PANELİ(BASİT)\obj\Debug\GİRİŞ PANELİ(BASİT).exe
+D:\visual studio projelerim\GİRİŞ PANELİ(BASİT)\GİRİŞ PANELİ(BASİT)\obj\Debug\GİRİŞ PANELİ(BASİT).pdb
